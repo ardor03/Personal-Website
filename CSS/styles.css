@@ -1,0 +1,173 @@
+
+body {
+  margin : 0;
+  text-align: center;
+  font-family: Perpetua, Baskerville, serif;
+  font-size: 1.5rem;
+}
+
+h1 {
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  margin-top: 2rem;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3 {
+  color: #11999E;
+  text-align: center;
+}
+
+p {
+  font-family: 'Caveat Brush', cursive;
+  line-height: 1.5;
+}
+
+a {
+  color: #11999E;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #A6D1E6;
+}
+
+span {
+  text-decoration: underline;
+}
+
+hr {
+  border: 0;
+  height: 10px;
+  background-image: linear-gradient(to right, #2C3333,  #66BFBF, #2C3333);
+}
+
+.me {
+  width: 200px;
+  margin-top: 50px;
+  border-radius: 100px;
+}
+
+.hello {
+  margin-top: 0;
+}
+
+.and {
+  margin-bottom: 20px;
+  font-family: 'Caveat Brush', cursive;
+  font-weight: normal;
+}
+
+.top {
+  background-color: #E7F6F2;
+  padding-top: 100px;
+  position: relative;
+  margin: 0;
+  margin-bottom: 0;
+}
+
+.middle {
+  margin: 0;
+  background-color: #E2DCC8;
+  margin-bottom: 150px;
+}
+
+.bottom {
+  margin: 0;
+  background-color: rgb(255, 255, 255);
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+}
+
+.cloud {
+  position: absolute;
+  top: 75px;
+  right: 18%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 10%;
+  top: 350px;
+}
+
+.get {
+  margin-bottom: 0;
+  font-family: 'Itim', cursive;
+  font-size: 2rem;
+}
+
+.giga {
+  margin-top: 0;
+  font-family: 'Itim', cursive;
+  font-size: 1.5rem;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.as {
+  text-align: left;
+}
+
+.skill-img1 {
+  float: left;
+  width: 50%;
+  margin-right: 30px;
+}
+
+.skill-img2 {
+  float: right;
+  width: 65%;
+  margin-left: 30px;
+}
+
+.t {
+  text-align: left;
+}
+
+.footer-link {
+  width: 25px;
+  margin: auto 5px;
+}
+
+.description {
+  color: #40514E;
+  margin-bottom: 0;
+}
+
+.btn {
+   background-image: linear-gradient(to top, #66BFBF, #11999E);
+   border-radius: 5px;
+   color: #0F3D3E;
+   font-size: 25px;
+   font-weight: 100;
+   padding: 10px;
+   border: solid #0F3D3E 7px;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   font-family: 'Itim', cursive;
+}
+
+.btn:hover {
+   border: solid #3F4142 7px;
+   background-image: linear-gradient(to bottom, #5777AB, #3A5776);
+   border-radius: 5px;
+}
+
+.copyright {
+  color: #66BFBF;
+  font-size: .6rem
+}
